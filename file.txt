@@ -1,1 +1,2 @@
 this is a test file to be used i te file to test the git shit.
+and this is a new line to indicate that this shit works
